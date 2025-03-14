@@ -1,4 +1,4 @@
-# Infinite Yield 
+# Void X Yield 
 [Roblox Profile](https://www.roblox.com/tr/users/8029828714/profile?friendshipSourceType=PlayerSearch)
 The best command line script for roblox.
 
@@ -22,6 +22,8 @@ Get it [here](https://github.com/DarkSkull-Developer/VoidX-Yield)
 ### Developer: Zwolf
 ### Developer: Toon
 
+## Void X Yield
+Infinite Yield (Remake)
 
 ## Usage
 You can learn how to use all the features of this script in the wiki!
